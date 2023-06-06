@@ -1,178 +1,171 @@
 {
-  "trivia": [
-    {
-      "category": "Cultura",
-      "questions": [
         {
+          "category": "Cultura",		
           "question": "¿Quién pintó la famosa obra 'La Mona Lisa'?",
           "options": ["Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí", "Vincent van Gogh"],
           "answer": 1,
           "explanation": "La famosa obra 'La Mona Lisa' fue pintada por Leonardo da Vinci."
         },
         {
+          "category": "Cultura",		
           "question": "¿Cuál es el idioma oficial de Brasil?",
           "options": ["Español",  "Inglés","Portugués", "Francés"],
           "answer": 2,
           "explanation": "El idioma oficial de Brasil es el portugués."
         },
         {
+          "category": "Cultura",		
           "question": "¿Cuál es el país de origen del tango?",
           "options": ["Argentina", "Brasil",  "México", "España"],
           "answer": 0,
           "explanation": "El tango es originario de Argentina."
         },
         {
+          "category": "Cultura",		
           "question": "¿Cuál es la capital de Japón?",
           "options": ["Pekín", "Bangkok", "Seúl", "Tokio",],
           "answer": 3,
           "explanation": "La capital de Japón es Tokio."
-        }
-      ]
-    },
-    {
-      "category": "Deportes",
-      "questions": [
+		},
         {
+          "category": "Deportes",		
           "question": "¿Cuál es el deporte más popular en Estados Unidos?",
           "options": ["Fútbol", "Béisbol", "Baloncesto", "Hockey"],
           "answer": 2,
           "explanation": "El baloncesto es el deporte más popular en Estados Unidos."
         },
         {
+          "category": "Deportes",		
           "question": "¿En qué país se originó el deporte del rugby?",
           "options": ["Inglaterra", "Francia", "Australia", "Nueva Zelanda"],
           "answer": 0,
           "explanation": "El deporte del rugby se originó en Inglaterra."
         },
         {
+          "category": "Deportes",		
           "question": "¿Quién tiene el récord de más medallas olímpicas en la historia?",
           "options": [ "Usain Bolt", "Michael Phelps","Simone Biles", "Carl Lewis"],
           "answer": 1,
           "explanation": "Michael Phelps tiene el récord de más medallas olímpicas en la historia."
         },
         {
+          "category": "Deportes",		
           "question": "¿Cuál es el deporte nacional de Canadá?",
           "options": [ "Fútbol", "Críquet", "Béisbol","Hockey",],
           "answer": 3,
           "explanation": "El hockey es el deporte nacional de Canadá."
-        }
-      ]
-    },
-    {
-      "category": "Arte",
-      "questions": [
+
+		},
         {
+          "category": "Arte",		
           "question": "¿Quién pintó 'La Noche Estrellada'?",
           "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí"],
           "answer": 0,
           "explanation": "'La Noche Estrellada' fue pintada por Vincent van Gogh."
         },
         {
+          "category": "Arte",		
           "question": "¿Cuál de estos artistas fue parte del movimiento del impresionismo?",
           "options": ["Claude Monet", "Michelangelo", "Frida Kahlo", "Andy Warhol"],
           "answer": 0,
           "explanation": "Claude Monet fue parte del movimiento del impresionismo."
         },
         {
+          "category": "Arte",		
           "question": "¿Quién es el autor de la escultura 'El Pensador'?",
           "options": ["Auguste Rodin", "Pablo Picasso", "Donatello", "Michelangelo"],
           "answer": 0,
           "explanation": "La escultura 'El Pensador' fue creada por Auguste Rodin."
         },
         {
+          "category": "Arte",		
           "question": "¿Cuál es el nombre del famoso cuadro de Edvard Munch que representa una figura con una expresión de angustia?",
           "options": ["La Última Cena", "La Creación de Adán", "El Grito", "La Persistencia de la Memoria"],
           "answer": 2,
           "explanation": "El famoso cuadro de Edvard Munch que representa una figura con una expresión de angustia se llama 'El Grito'."
-        }
-      ]
-    },
-    {
-      "category": "Cine",
-      "questions": [
+		},
         {
+          "category": "Cine",		
           "question": "¿Qué película ganó el premio Óscar a la Mejor Película en 2020?",
           "options": ["Parasite", "Joker", "1917", "Nomadland"],
           "answer": 3,
           "explanation": "La película 'Nomadland' ganó el premio Óscar a la Mejor Película en 2020."
         },
         {
+          "category": "Cine",		
           "question": "¿Quién dirigió la trilogía cinematográfica 'El Señor de los Anillos'?",
           "options": ["Christopher Nolan", "Steven Spielberg", "Peter Jackson", "Quentin Tarantino"],
           "answer": 2,
           "explanation": "La trilogía cinematográfica 'El Señor de los Anillos' fue dirigida por Peter Jackson."
         },
         {
+          "category": "Cine",		
           "question": "¿En qué película aparece el personaje de Harry Potter?",
           "options": ["Harry Potter y la Piedra Filosofal", "El Hobbit: Un viaje inesperado", "Ratatouille", "El Padrino"],
           "answer": 0,
           "explanation": "El personaje de Harry Potter aparece en la película 'Harry Potter y la Piedra Filosofal'."
         },
         {
+          "category": "Cine",		
           "question": "¿Cuál es la película más taquillera de todos los tiempos?",
           "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: El despertar de la fuerza"],
           "answer": 0,
           "explanation": "'Avengers: Endgame' es la película más taquillera de todos los tiempos."
-        }
-      ]
-    },
-    {
-      "category": "Historia",
-      "questions": [
+		},
         {
+          "category": "Historia",		
           "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
           "options": ["1776", "1789", "1812", "1865"],
           "answer": 0,
           "explanation": "La Declaración de Independencia de los Estados Unidos se firmó en 1776."
         },
         {
+          "category": "Historia",		
           "question": "¿Quién fue el líder de la Revolución Rusa en 1917?",
           "options": ["Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev", "Leon Trotsky"],
           "answer": 1,
           "explanation": "Vladimir Lenin fue el líder de la Revolución Rusa en 1917."
         },
         {
+          "category": "Historia",		
           "question": "¿En qué año terminó la Segunda Guerra Mundial?",
           "options": ["1945", "1939", "1941", "1943"],
           "answer": 0,
           "explanation": "La Segunda Guerra Mundial terminó en 1945."
         },
         {
+          "category": "Historia",		
           "question": "¿Quién fue el primer presidente de los Estados Unidos?",
           "options": ["George Washington", "Thomas Jefferson", "John Adams", "Abraham Lincoln"],
           "answer": 0,
           "explanation": "George Washington fue el primer presidente de los Estados Unidos."
-        }
-      ]
-    },
-    {
-      "category": "Ciencia",
-      "questions": [
+		},
         {
+          "category": "Ciencia",		
           "question": "¿Cuál es el elemento químico más abundante en el universo?",
           "options": ["Oxígeno", "Hidrógeno", "Carbono", "Hierro"],
           "answer": 1,
           "explanation": "El hidrógeno es el elemento químico más abundante en el universo."
         },
         {
+          "category": "Ciencia",		
           "question": "¿Quién formuló la teoría de la relatividad?",
           "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
           "answer": 1,
           "explanation": "Albert Einstein formuló la teoría de la relatividad."
         },
         {
+          "category": "Ciencia",		
           "question": "¿Cuál es el planeta más grande del sistema solar?",
           "options": ["Marte", "Venus", "Júpiter", "Saturno"],
           "answer": 2,
           "explanation": "Júpiter es el planeta más grande del sistema solar."
         },
         {
+          "category": "Ciencia",		
           "question": "¿Cuál es el órgano más grande del cuerpo humano?",
           "options": ["Cerebro", "Hígado", "Corazón", "Pulmones"],
           "answer": 1,
           "explanation": "El hígado es el órgano más grande del cuerpo humano."
         }
-      ]
-    }
-  ]
 }
